@@ -11,6 +11,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "babel-plugin-component": "^1.1.1",
+    "mint-ui": "^2.2.13",
     "swiper": "^5.4.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
