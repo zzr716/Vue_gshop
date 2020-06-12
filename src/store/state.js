@@ -10,5 +10,6 @@ export default {
     userInfo: {}, //用户信息
     goods: [],
     ratings: [],
-    info: []
+    info: [],
+    cartFoods: []
 }
